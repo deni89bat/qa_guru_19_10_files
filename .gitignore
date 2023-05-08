@@ -9,6 +9,7 @@ HELP.md
 *.ipr
 
 ### Gradle ###
+gradle/
 build/
 .gradle
 gradlew
